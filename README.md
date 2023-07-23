@@ -1,2 +1,3 @@
 # CalorieCrusher
-Calculates recommended calorie intake
+First Program I wrote.
+
